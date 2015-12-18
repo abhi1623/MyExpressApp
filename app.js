@@ -9,7 +9,7 @@ var execute = require('./routes/execute_query');
 var discover = require('./routes/discover');
 var routes = require('./routes/index');
 var users = require('./routes/users');
-
+// create a new instance of express 
 var app = express();
 
 // view engine setup
