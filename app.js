@@ -10,8 +10,6 @@ var discover = require('./routes/discover');
 var routes = require('./routes/index');
 var users = require('./routes/users');
 
-//comment
-// create a new instance of express
 var app = express();
 
 // view engine setup
